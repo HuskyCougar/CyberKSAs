@@ -3,16 +3,19 @@
 ---
 This is a scrape of the timestamps of several offsec related YouTube video. Ctrl-F through this.
 
-IppSec
-YouTube : https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA
+### IppSec
+YouTube : https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA <br>
 Twitter : https://twitter.com/ippsec
 
 
-John Hammond
-YouTube : https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw
-Discord : https://johnhammond.org/discord
-Twitter : https://twitter.com/_johnhammond
-GitHub  : https://github.com/JohnHammond
+### John Hammond
+YouTube : https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw <br>
+Discord : https://johnhammond.org/discord <br>
+Twitter : https://twitter.com/_johnhammond <br>
+GitHub  : https://github.com/JohnHammond <br>
+
+
+
 
 <table>
 
