@@ -1,4 +1,11 @@
 
+<style type="text/css" media="screen">
+
+.container{width:90%;max-width:100px;margin:0 auto}
+
+</style>
+
+
 # OffSec video scrape
 ---
 This is a scrape of the timestamps of several offsec related YouTube video. Ctrl-F through this.
