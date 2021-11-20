@@ -5,7 +5,7 @@
 
 
 ### Done
- - [OffSec video scrape](https://github.com/HuskyCougar/CyberKSAs/blob/main/OffSec_Video_TimeStamps.md)
+ - [OffSec video scrape](https://github.com/HuskyCougar/CyberKSAs/blob/main/OffSec_Video_TimeStamps)
 
 ### Todo
 - Build a lab with VMs
