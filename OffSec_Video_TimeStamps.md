@@ -1,7 +1,7 @@
 
 <style type="text/css" media="screen">
 
-.container{width:90%;max-width:1400px;margin:0 auto}
+.container{width:90%;margin:0 auto}
 
 </style>
 
