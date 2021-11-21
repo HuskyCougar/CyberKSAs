@@ -23,14 +23,13 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
 
 
 
-
 <table>
 
   <tr>
     <th>Channel</th>
     <th style="width:300px">Video Title</th>
-    <th style="width:120px">Release Date</th>
-    <th style="width:170px">Video Link</th>
+    <th style="width:200px">Release Date</th>
+    <th style="width:220px">Video Link</th>
     <th>Timestamp Comments</th>
   </tr>
 
@@ -32061,3 +32060,4 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
   </tr>
 
 </table>
+
