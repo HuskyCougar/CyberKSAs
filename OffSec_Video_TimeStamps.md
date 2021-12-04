@@ -36,6 +36,132 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
 
   <tr>
     <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Intro</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=65">00:01:05</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Start of nmap</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=180">00:03:00</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Discovering the webserver is apache, despite nmap saying it is nginx</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=390">00:06:30</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Every request with /admin gets a 401, indication that nginx location may not end with /</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=450">00:07:30</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Doing the nginx lfi to grab apache server-stats and leak the /admin_staging/ directory</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=510">00:08:30</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Running gobuster in /admin_staging/ to discover more php scripts</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=560">00:09:20</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Testing index.php for lfi with a php filter</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=720">00:12:00</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Looking at the source and seeing it is using include() which allows for RCE if we can get it pointed at php code</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=830">00:13:50</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Playing with the LFI, eventually finding info.php which tells us open_basedir is set to /var/ which prevents the LFI from going out of that directory</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=995">00:16:35</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Using wfuzz with an LFI wordlist to search for files we can chain with this LFI, discovering ftp logs</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=1140">00:19:00</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Poisoning the FTP log with a php reverse shell then using the LFI to trigger it</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=1455">00:24:15</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Looking at the /opt/pokeapi directory to find a LDAP credentials</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=1545">00:25:45</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Using ldapsearch to dump information out of the linux ldap server to get pwnmeow's credentials</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=1705">00:28:25</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Using ftp with pwnmeow's credentials, then running linpeas</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=1955">00:32:35</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Examining the CSVUpdate cron and finding a code injection vulnerability in the perl script</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=2120">00:35:20</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Going over why perl will execute a variable starting or ending with | with an open() command</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=2250">00:37:30</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Creating a reverse shell file that begins with |</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Pikaboo</td>
+    <td valign="top" style="white-space: nowrap">2021-12-04</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=4tXFHoeOytE?t=2490">00:41:30</a> / <a href="https://www.youtube.com/watch?v=4tXFHoeOytE">00:42:26</a></td>
+    <td valign="top">Uploading our malicious file via FTP and getting root</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Intelligence</td>
     <td valign="top" style="white-space: nowrap">2021-11-27</td>
     <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=Jg_BjkxdtsE?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=Jg_BjkxdtsE">00:49:15</a></td>
@@ -21788,7 +21914,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">Securing Vendor Webapps - A Vulnerability Assessment on HELK</td>
     <td valign="top" style="white-space: nowrap">2019-04-14</td>
     <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=2OWtEymBQfA?t=1510">00:25:10</a> / <a href="https://www.youtube.com/watch?v=2OWtEymBQfA">01:00:34</a></td>
-    <td valign="top">Our Apache Server doesn't like self-signed certificate of remote server adding:</td>
+    <td valign="top">Our Apache Server doesn't like self-signed certificate of remote server adding:<br>-- SSLProxyVerify, SSLProxyCheckPeerCN, SSLProxyCheckPeerName, SSLProxyCheckPeerExpire</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -27234,7 +27360,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Bart</td>
     <td valign="top" style="white-space: nowrap">2018-07-14</td>
     <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc?t=670">00:11:10</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Enumerating Username in PHP Server Monitor: Challenge Watch Sense to und</td>
+    <td valign="top">Enumerating Username in PHP Server Monitor: Challenge Watch Sense to understand CSRF and write an automated bruteforcer</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -27283,7 +27409,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Bart</td>
     <td valign="top" style="white-space: nowrap">2018-07-14</td>
     <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc?t=2915">00:48:35</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Attempting to use b33f/FuzzySecurity Invoke-RunAs</td>
+    <td valign="top">### Start of Failing attempting to do a RunAs... Lol.<br>Attempting to use b33f/FuzzySecurity Invoke-RunAs</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -27325,14 +27451,14 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Bart</td>
     <td valign="top" style="white-space: nowrap">2018-07-14</td>
     <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc?t=4900">01:21:40</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Found Impacket-PSExec!  And it works!</td>
+    <td valign="top">### End of Failing!<br>Found Impacket-PSExec!  And it works!</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Bart</td>
     <td valign="top" style="white-space: nowrap">2018-07-14</td>
     <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc?t=5025">01:23:45</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Lets go hunt for creds!</td>
+    <td valign="top">### Box Done<br>Lets go hunt for creds!</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -28564,7 +28690,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">Vulnhub - Trollcave 1.2</td>
     <td valign="top" style="white-space: nowrap">2018-04-15</td>
     <td valign="top" style="white-space: nowrap"><a href="https://www.youtube.com/watch?v=2EW78bkwztg?t=2505">00:41:45</a> / <a href="https://www.youtube.com/watch?v=2EW78bkwztg">01:43:41</a></td>
-    <td valign="top">Stealing CoolDude89's Cookie to gain Moderator Access</td>
+    <td valign="top">----- Box Done, Rest is extra content -----<br>Stealing CoolDude89's Cookie to gain Moderator Access</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
