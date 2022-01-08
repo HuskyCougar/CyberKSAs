@@ -34,6 +34,118 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
 
   <tr>
     <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Intro</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=60">00:01:00</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Start of nmap</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=120">00:02:00</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Running GoBuster, discovering the redirects have filesizes</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=180">00:03:00</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Showing the Execute After Read vulnerability (EAR) by using BurpSuite to hit / and discovering the page</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=240">00:04:00</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Using grep to show us only what we want (oP)</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=390">00:06:30</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Using BurpSuite to intercept the response to the request so we can disable the redirect (EAR). Then using the webform to create an account (IDOR)</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=480">00:08:00</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Examining the website source, using grep to look for places with user input</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=690">00:11:30</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Testing the logs.php page for shell injection, then getting a reverse shell</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=810">00:13:30</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Going into the webconfig to get database creds, then dump and crack creds</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=1190">00:19:50</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Testing local users with the passwords from the database to get m4lwhere's creds</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=1225">00:20:25</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Checking sudo to see something is weird, the env_reset/secure_path is not there. (this is configured in /etc/sudoers)</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=1330">00:22:10</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Explaining Path Injection, then taking advantage of a script in sudo not using absolute paths</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=1530">00:25:30</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Going back to explain things, weird behavior of the webserver always hanging. Maybe it was trying to send me a webshell? idk</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=1680">00:28:00</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Fuzzing parameters of accounts.php to create accounts. But first discovering how important the Content-Type header is!</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=1850">00:30:50</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Using WFUZZ to fuzz the confirmation  parameter</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Previse</td>
+    <td valign="top" style="white-space: nowrap">2022-01-08</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/LI9mw1rMKVw?t=2120">00:35:20</a> / <a href="https://www.youtube.com/watch?v=LI9mw1rMKVw">00:37:42</a></td>
+    <td valign="top">Explaining how the EAR Vulnerability happened in the code and how to fix it</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
     <td valign="top">UHC - NodeBlog</td>
     <td valign="top" style="white-space: nowrap">2022-01-01</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ahzOprfN--Y?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=ahzOprfN--Y">00:49:19</a></td>
@@ -33081,3 +33193,13 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
   </tr>
 
 </table>
+
+
+
+
+
+
+
+
+
+
