@@ -87,20 +87,21 @@ If you already have a VS Code window open, you can import all of your pages by g
 ---
 
 Download Visual Studio Code<br>
-https://code.visualstudio.com/Download
+[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 
 Download CherryTree<br>
-https://www.giuspen.com/cherrytree/
+[https://www.giuspen.com/cherrytree/](https://www.giuspen.com/cherrytree/)
 
 Youtube Search for "CherryTree OSCP"<br>
-https://www.youtube.com/results?search_query=cherrytree+oscp
+[https://www.youtube.com/results?search_query=cherrytree+oscp](https://www.youtube.com/results?search_query=cherrytree+oscp)
 
 Reddit discussion about note taking for OSCP<br>
-https://www.reddit.com/r/oscp/comments/9gjzc8/help_oscp_note_taking/
+[https://www.reddit.com/r/oscp/comments/9gjzc8/help_oscp_note_taking/](https://www.reddit.com/r/oscp/comments/9gjzc8/help_oscp_note_taking/)
 
-OSCP Resources<br>
-https://highon.coffee/
+High On Coffee OSCP Resources<br>
+[https://highon.coffee/](https://highon.coffee/)
 
 HackTricks. Lots of code examples to copy over.<br>
-https://book.hacktricks.xyz/windows/basic-cmd-for-pentesters
+[https://book.hacktricks.xyz/windows/basic-cmd-for-pentesters](https://book.hacktricks.xyz/windows/basic-cmd-for-pentesters)
+
 
