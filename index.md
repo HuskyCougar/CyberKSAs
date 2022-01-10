@@ -13,3 +13,5 @@
 - Jupyter Notebooks Setup
 - Practical Labs
     - Crypto: Diffie Hellman in Bash
+
+I don't plan on reinventing any wheels. If someone else has done good job explaining something, I'll will link to that resource.
