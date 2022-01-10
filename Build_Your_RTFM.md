@@ -2,24 +2,6 @@
 
 Red Team Field Manual / Read the f***ing Manual
 
-
-<br>
-## Read the F**king Manual
----
-
-A good mentor will not tell you to go RTFM or #TryHarder. Unfortunately, you will encounter these people and it hurts everyone. You lose out of being enriched by their knowledge and they lose out on rethinking through problems and supporting the next generation of leaders.
-
-With that said, if you are searching for help on a difficult or new-to-you task and haven't done some basic research or troubleshooting, the person whose time you are about to waste should quickly and politely send you on your way.
-
-Use this approach for your new-to-you task:
-- try and clearly define what you think your problem is
-- search online for solutions to your problem
-- try some of those solutions by yourself
-- find a mentor and discuss the steps you taken to get solve your problem.
-
-If you have good mentors in your life, this is a good method for getting attention from them. Because we all have limited time, show your mentor that you are someone who is worth investing in.
-
-
 <br>
 ## Red Team Field Manual
 ---
@@ -80,6 +62,22 @@ This example shows the use of Markdown to create formatting. Using Markdown is n
 If you already have a VS Code window open, you can import all of your pages by going to the File Menu and choosing Open Folder.
 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![VS Code Enum Doc](./assets/rtfm_04.png)
+
+<br>
+## Read the F**king Manual rant
+---
+
+A good mentor will not tell you to go RTFM or #TryHarder. Unfortunately, you will encounter these people and it hurts everyone. You lose out of being enriched by their knowledge and they lose out on rethinking through problems and supporting the next generation of leaders.
+
+With that said, if you are searching for help on a difficult or new-to-you task and haven't done some basic research or troubleshooting, the person whose time you are about to waste should quickly and politely send you on your way.
+
+Use this approach for your new-to-you task:
+- try and clearly define what you think your problem is
+- search online for solutions to your problem
+- try some of those solutions by yourself
+- find a mentor and discuss the steps you taken to get solve your problem.
+
+If you have good mentors in your life, this is a good method for getting attention from them. Because we all have limited time, show your mentor that you are someone who is worth investing in.
 
 
 <br>
