@@ -3,7 +3,7 @@
 Red Team Field Manual / Read the f***ing Manual
 
 
-<br></br>
+<br>
 ## Read the F**king Manual
 ---
 
@@ -20,12 +20,12 @@ Use this approach for your new-to-you task:
 If you have good mentors in your life, this is a good method for getting attention from them. Because we all have limited time, show your mentor that you are someone who is worth investing in.
 
 
-<br></br>
+<br>
 ## Red Team Field Manual
 ---
 There is a book, [RTFM](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/), that is a fantastic resource for people in cyber security. Get it, it is worth the $10. There is also a [Blue Team Field Manual](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X/) for $15 on Amazon. 
 
-<br></br>
+<br>
 ## Why build your own RTFM?
 ---
 
@@ -35,7 +35,7 @@ As you complete your daily tasks or compete in online hacking challenges, add ex
 
 Sometimes you will hear this document called “pastables” because the idea is that you will search through it for code that you can copy/paste. 
 
-<br></br>
+<br>
 ## To Cloud or Not To Cloud
 
 If you have easy and consistent access to an internet connection, tools like OneNote will allow to you find and update your notes from anywhere. If you work in a space where you can not or should not touch the internet, you will want another solution like CherryTree or a code editor.
@@ -46,7 +46,7 @@ If you expect to use local files or wont have access to online resources, try an
 
 
 
-<br></br>
+<br>
 ## VS Code
 
 To confuse myself, I use a both VS Code and CherryTree to keep my notes. 
@@ -59,7 +59,7 @@ This is a terse explanation of how to get going with VS Code:
 - From Windows Explorer, right click on your root folder and choose Open With Code
 
 
-<br></br>
+<br>
 
 ### Create Folder Structure and Add Empty Files
 
@@ -82,7 +82,7 @@ If you already have a VS Code window open, you can import all of your pages by g
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![VS Code Enum Doc](./assets/rtfm_04.png)
 
 
-<br></br>
+<br>
 ## Resources
 ---
 
@@ -95,7 +95,7 @@ https://www.giuspen.com/cherrytree/
 Youtube Search for "CherryTree OSCP"<br>
 https://www.youtube.com/results?search_query=cherrytree+oscp
 
-Reddit discussion about notetaking for OSCP<br>
+Reddit discussion about note taking for OSCP<br>
 https://www.reddit.com/r/oscp/comments/9gjzc8/help_oscp_note_taking/
 
 OSCP Resources<br>
