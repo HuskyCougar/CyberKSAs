@@ -31,7 +31,7 @@ If you expect to use local files or wont have access to online resources, try an
 <br>
 ## VS Code
 
-To confuse myself, I use a both VS Code and CherryTree to keep my notes. 
+To confuse myself, I use both VS Code and CherryTree to keep my notes. 
 
 This is a terse explanation of how to get going with VS Code:
 - In Windows Explorer or other file manager, make a folder for your notes
@@ -77,7 +77,7 @@ Use this approach for your new-to-you task:
 - try some of those solutions by yourself
 - find a mentor and discuss the steps you taken to get solve your problem.
 
-If you have good mentors in your life, this is a good method for getting attention from them. Because we all have limited time, show your mentor that you are someone who is worth investing in.
+If you have good mentors in your life, this is an excellent method for getting attention from them. Because we all have limited time, show your mentor that you are someone who is worth investing in.
 
 
 <br>
@@ -89,6 +89,9 @@ Download Visual Studio Code<br>
 
 Download CherryTree<br>
 [https://www.giuspen.com/cherrytree/](https://www.giuspen.com/cherrytree/)
+
+Elevate Cyber - My Top Note Taking Strategies for OSCP
+[https://youtu.be/dX0IVDPo7ek?t=76](https://youtu.be/dX0IVDPo7ek?t=76)
 
 Youtube Search for "CherryTree OSCP"<br>
 [https://www.youtube.com/results?search_query=cherrytree+oscp](https://www.youtube.com/results?search_query=cherrytree+oscp)
