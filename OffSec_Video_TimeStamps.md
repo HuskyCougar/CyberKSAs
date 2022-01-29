@@ -22,6 +22,8 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
 [GitHub](https://github.com/JohnHammond)
 
 
+
+
 <table>
 
   <tr>
@@ -32,6 +34,580 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <th>Timestamp Comments</th>
   </tr>
 
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Intro</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=60">00:01:00</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Start of nmap, getting hostname and</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=320">00:05:20</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Discovering the Server Header changes for virtualhost, probably navigating to a different box/container/etc [MasterRecon]</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=650">00:10:50</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Getting a good SSTI Fuzz String then identifying this string causes an error on the webserver. Removing parts of the string until we see the type of SSTI</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=820">00:13:40</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Playing with ASP Code in this SSTI or ASP Code Injection... Not sure what the vulnerability is</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=930">00:15:30</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Getting a VBScript One Liner to execute code and then getting a reverse shell</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=1470">00:24:30</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Discovering a x509 certificate, decoding it with openssl, and discovering a second hostname</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=1740">00:29:00</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Downloading and running chisel to setup a reverse socks proxy so we can attempt to pivot through this container</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=1914">00:31:54</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Running nmap through the chisel socks proxy with proxychains</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=2060">00:34:20</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Setting FoxyProxy to only send specific domains through our proxy</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=2190">00:36:30</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Discovering the softwareportal.windcorp.htb attempts to install software on machines, set it to our machine and wireshark to see how 3it connects back to us</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=2310">00:38:30</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Using responder to intercept the WinRM Connection and then use hashcat to crack the credentials</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=2560">00:42:40</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Using CrackMapExec with our cracked credentials discovering we can access a file share that has Jamovi Files</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=2700">00:45:00</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Installing Jamovi then finding out the XSS and proving RCE with Calc. Setting it to execute javascripts off of our webserver</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=3200">00:53:20</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Creating a web cradle to execute a reverse shell, in typical ippsec fashion have a typo that we will fix later</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=3380">00:56:20</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Fixed up the web cradle, reverse shell returned. Some light enumeration and talking about honey pots that have logon hours set to never</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=3600">01:00:00</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Start of certificate exploit, downloading tools certify, rubeus, ADCS, PowerView</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=3885">01:04:45</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Running Certify to find vulnerable certificates, we can edit the certificate template which enables us to enroll a smart card</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=4080">01:08:00</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Running Get-SmartCardCertificate and then checking certificate store to see we didn't have anything. Showing we need to change the script because a weird thing with UPN's on this box</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=4250">01:10:50</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Running Get-SmartCardCertificate again with our fix, then getting the certificate thumbprint and using Rubeus to get the credential</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=4470">01:14:30</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Enabling RDP on the box so we can visually see the certificate</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=4750">01:19:10</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Opening up MMC to see the certificate</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5000">01:23:20</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Doing the Certificate Exploit again but stepping through it all manually using Linux instead of Windows when possible</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5060">01:24:20</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Showing the vulnerable certificate template before modifying and what the certificate usage is</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5190">01:26:30</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Showing the certificate template after using Set-ADObject to modify the template</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5245">01:27:25</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Generating a Certificate Request</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5380">01:29:40</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Using CertReq to sign the certificate we generated</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5490">01:31:30</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Showing my Kerberos Configuration</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5570">01:32:50</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Using CertUtil to output the CA Certificate</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5630">01:33:50</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Setting up our port forwards so we can communicate with Kerberos</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5865">01:37:45</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Running kinit to login with our X509 Smart Card Certificate, get error show how to debug KINIT with trace</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=5980">01:39:40</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Changing our time to match the DC and then running KINIT again and getting a session</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Anubis</td>
+    <td valign="top" style="white-space: nowrap">2022-01-29</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/tEwH1FeH1mw?t=6050">01:40:50</a> / <a href="https://www.youtube.com/watch?v=tEwH1FeH1mw">01:42:24</a></td>
+    <td valign="top">Using Evil-WinRM to get a shell with our kerberos certificate</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Intro</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=60">00:01:00</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Running nmap finding a filtered port with some open ones</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=210">00:03:30</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Running GoBuster to always have something running in the background</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=300">00:05:00</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Playing with the Upload Form</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=440">00:07:20</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Playing with the Upload from URL to see what library connects back to us (SSRF)</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=570">00:09:30</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">The Upload From URL has a blacklisted address, playing with it to discover what is blacklisted</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=655">00:10:55</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Bypassing the URL Blacklist in the SSRF by changing the case of words</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=705">00:11:45</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Running a virtualhost bruteforce within gobuster to discover vhost</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=790">00:13:10</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Bypassing the URL Blacklist in the SSRF by creating a webserver that will send a redirect</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1010">00:16:50</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Using the SSRF to download admin.forge.htb and discovering ftp creds and another SSRF</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1100">00:18:20</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Using the SSRF to use FTP</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1160">00:19:20</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Encoding the IP Address as hex to bypass a blacklist</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1330">00:22:10</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">When specifying a directory in the FTP with SSRF need a trailing slash explaining why</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1390">00:23:10</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Downloading id_rsa and then logging into the machine</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1450">00:24:10</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">The user can sudo run a python script, which stands up a debugger on a random port</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1573">00:26:13</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Doing a nested tmux so we can run the python script and then use netcat to connect</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1730">00:28:50</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Getting root</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=1855">00:30:55</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Explaining how to harden the blacklist to prevent the easy bypassing</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=2070">00:34:30</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Looking at how admin.forge.htb added FTP Support</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=2210">00:36:50</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Thinking there's an RCE but there isn't, shlex is a good filter</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=2670">00:44:30</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Getting frustrated, lets break this down and see whats stopping our RCE</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Forge</td>
+    <td valign="top" style="white-space: nowrap">2022-01-22</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/-BL4uevhERg?t=2740">00:45:40</a> / <a href="https://www.youtube.com/watch?v=-BL4uevhERg">00:48:38</a></td>
+    <td valign="top">Playing with Shlex to discover it is what prevents the RCE</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Intro</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=64">00:01:04</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Start of nmap</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=180">00:03:00</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Examining the web page, noticing every URL with admin gets redirected to a django login</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=300">00:05:00</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Creating an account and looking at the page to discover CTF Challenges</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=375">00:06:15</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">CHALLENGE 1: Phished List, a protected excel spreadsheet. Remove protection to see hidden cells</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=710">00:11:50</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Submitting a writeup, discovering an old version of Firefox talks to us</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=840">00:14:00</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Checking for Tab Nabbing vulnerability and explaining it</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=1050">00:17:30</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Creating a phishing page by mirroring the page with wget and then using PHP to log submitted credentials</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=1770">00:29:30</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Phishing worked, got the admin's password. Login to Django to see another website (Sentry)</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=1980">00:33:00</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Creating an error message in Sentry to get an error message, which contains a secret key used to encrypt the cookie</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=2170">00:36:10</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Grabbing a django deserialization payload then installing django on python2 to use the payload</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=2415">00:40:15</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Changing the payload in the exploit to a reverse shell, avoiding any bad characters for URL and getting a reverse shell</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=2773">00:46:13</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Logging into Sentry Postgres Database then enumerating tables and dumping the users table and cracking karl's password</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=3145">00:52:25</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Discovering Karl can execute the authenticator binary with sudo, strings shows it is a rust binary. Copy it back to our box</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=3415">00:56:55</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Examining the binary in Ghidra</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=3535">00:58:55</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Discovering a call to Crypto::AES::CTR, using the rust docs to figure out what our variables are</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=3682">01:01:22</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Showing that AES-CTR does not have defined block sizes</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=3900">01:05:00</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Using GDB to help our analysis, showing how to setup break points around what our decompiler shows</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=4236">01:10:36</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Examining memory to confirm our static analysis was correct</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=4275">01:11:15</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">Grabbing the encrypted blob the program is comparing against to get the password and getting root</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=4540">01:15:40</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">CHALLENGE 2: PSE, an dotnet binary that runs a uses PS2EXE to run PowerShell to encrypt a string</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=4880">01:21:20</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">CHALLENGE 3: Get Lucky, a small binary that rolls a dice.  We exploit it mainly in GDB but after recording, probably could have done LD_PRELOAD, I’m not sure</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=5690">01:34:50</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">CHALLENGE 4: RevMe.exe, just open the binary in DNSpy and grab the flag, also show doing this with strings if we change the encoding</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=5830">01:37:10</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">CHALLENGE 5: Authentication, another Rust binary. Just have to find the correct spot to set a break point and see the password in memory</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=6280">01:44:40</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">CHALLENGE 6: PwnMe, a simple challenge that we can use GDB to find the password</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=6570">01:49:30</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">CHALLENGE 7: Easy Encryption, a simple XOR Challenge where we can use known plaintext (or bruteforce) to recover the key</td>
+  </tr>
+  <tr>
+    <td valign="top">IppSec</td>
+    <td valign="top">HackTheBox - Developer</td>
+    <td valign="top" style="white-space: nowrap">2022-01-15</td>
+    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MjkDCy10BYM?t=6809">01:53:29</a> / <a href="https://www.youtube.com/watch?v=MjkDCy10BYM">01:56:56</a></td>
+    <td valign="top">CHALLENGE 8: Triple Wamy, another XOR Challenge where we have to just do the XOR's backwards to get the flag</td>
+  </tr>
   <tr>
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Previse</td>
@@ -226,7 +802,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">UHC - NodeBlog</td>
     <td valign="top" style="white-space: nowrap">2022-01-01</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ahzOprfN--Y?t=1930">00:32:10</a> / <a href="https://www.youtube.com/watch?v=ahzOprfN--Y">00:49:19</a></td>
-    <td valign="top">Discoving the application utilizes Node-Serialize which is extremely vulnerable to unserialization/deserialization attacks</td>
+    <td valign="top">Discovering the application utilizes Node-Serialize which is extremely vulnerable to unserialization/deserialization attacks</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -338,7 +914,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">UHC - LogForge</td>
     <td valign="top" style="white-space: nowrap">2021-12-23</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XG14EstTgQ4?t=660">00:11:00</a> / <a href="https://www.youtube.com/watch?v=XG14EstTgQ4">00:27:34</a></td>
-    <td valign="top">Running JNDI Injeection Exploit Kit to setup the LDAP Server</td>
+    <td valign="top">Running JNDI Injection Exploit Kit to setup the LDAP Server</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -478,7 +1054,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Static</td>
     <td valign="top" style="white-space: nowrap">2021-12-18</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XZd-pQTu4vU?t=2500">00:41:40</a> / <a href="https://www.youtube.com/watch?v=XZd-pQTu4vU">02:12:17</a></td>
-    <td valign="top">Running Chisel to create a pivot rhrough web to access mysql</td>
+    <td valign="top">Running Chisel to create a pivot through web to access mysql</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -646,7 +1222,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Writer</td>
     <td valign="top" style="white-space: nowrap">2021-12-11</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MkvDid7xO7o?t=615">00:10:15</a> / <a href="https://www.youtube.com/watch?v=MkvDid7xO7o">01:09:16</a></td>
-    <td valign="top">The adminsitrative interface lets us upload images, failing to upload a PHP Shell</td>
+    <td valign="top">The administrative interface lets us upload images, failing to upload a PHP Shell</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -688,7 +1264,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Writer</td>
     <td valign="top" style="white-space: nowrap">2021-12-11</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MkvDid7xO7o?t=2010">00:33:30</a> / <a href="https://www.youtube.com/watch?v=MkvDid7xO7o">01:09:16</a></td>
-    <td valign="top">Discoving an hardcoded password in the python flask web application</td>
+    <td valign="top">Discovering an hardcoded password in the python flask web application</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -730,7 +1306,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Writer</td>
     <td valign="top" style="white-space: nowrap">2021-12-11</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/MkvDid7xO7o?t=3105">00:51:45</a> / <a href="https://www.youtube.com/watch?v=MkvDid7xO7o">01:09:16</a></td>
-    <td valign="top">Examaning the Postfix config to see it executes the Disclaimer script as John and is editable by our gorup.  Edit the file, then sent an email to get shell as John.</td>
+    <td valign="top">Examining the Postfix config to see it executes the Disclaimer script as John and is editable by our group.  Edit the file, then sent an email to get shell as John.</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -947,7 +1523,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Intelligence</td>
     <td valign="top" style="white-space: nowrap">2021-11-27</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Jg_BjkxdtsE?t=860">00:14:20</a> / <a href="https://www.youtube.com/watch?v=Jg_BjkxdtsE">00:49:15</a></td>
-    <td valign="top">Finding the password NewIntelligenceCorpUser987, then using KerBrute to perfrom a passwordspray</td>
+    <td valign="top">Finding the password NewIntelligenceCorpUser987, then using KerBrute to perform a passwordspray</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -1031,7 +1607,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">HackTheBox - Intelligence</td>
     <td valign="top" style="white-space: nowrap">2021-11-27</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Jg_BjkxdtsE?t=2760">00:46:00</a> / <a href="https://www.youtube.com/watch?v=Jg_BjkxdtsE">00:49:15</a></td>
-    <td valign="top">Using NTPDate to syncronize the time to our domain controller</td>
+    <td valign="top">Using NTPDate to synchronize the time to our domain controller</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -1080,7 +1656,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">UHC- Union</td>
     <td valign="top" style="white-space: nowrap">2021-11-23</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/z5pdizHDvt8?t=280">00:04:40</a> / <a href="https://www.youtube.com/watch?v=z5pdizHDvt8">00:24:29</a></td>
-    <td valign="top">Manualling testing for SQL Injection, why its important to test with a query that returns data</td>
+    <td valign="top">Manually testing for SQL Injection, why its important to test with a query that returns data</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -5484,90 +6060,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top" style="white-space: nowrap">2021-05-29</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/04ZBIioD5pA?t=6260">01:44:20</a> / <a href="https://www.youtube.com/watch?v=04ZBIioD5pA">01:46:55</a></td>
     <td valign="top">Running Generic Potato in HTTP Mode triggering the SSRF and getting a root shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Intro</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=46">00:00:46</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Starting with nmap</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=135">00:02:15</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Enumerating the website to see links to the HelpDesk and Mattermost</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=220">00:03:40</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Attempting to enumerate the version of osTicket</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=345">00:05:45</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Searchsploit json output shows the date</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=390">00:06:30</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">No exploits found, lets open a new ticket and see it gives us a way to update the ticket via email</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=520">00:08:40</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Creating an account on Mattermost with the email of the helpdesk to get the activation link</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=570">00:09:30</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Viewing the internal chat and seeing a password, then SSHing to the server</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=710">00:11:50</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Using hashcat to create a wordlist with its internal rule system</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=740">00:12:20</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Going over how Hashcat Rule files work</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=920">00:15:20</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Root #1: Running sucrack to bruteforce the root users password</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Delivery</td>
-    <td valign="top" style="white-space: nowrap">2021-05-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/gbs43E71mFM?t=1190">00:19:50</a> / <a href="https://www.youtube.com/watch?v=gbs43E71mFM">00:28:12</a></td>
-    <td valign="top">Root #2: Cracking the Mattermost Password</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -12209,223 +12701,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Player2</td>
     <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Intro</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=51">00:00:51</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Begin of NMAP</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=120">00:02:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Identifying the Virtual Host (VHOST) player2.htb and doing recon on the webserver</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=420">00:07:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Testing basic SQL Injection on product.player2.htb</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=490">00:08:10</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Running gobuster against the product domain to find potential pages</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=780">00:13:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Running gobuster to try to enumerate sub domains.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=1070">00:17:50</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Checking the full port scan of the box to see 8545</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=1185">00:19:45</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Gobuster had an issue enumerating subdomains, switched to wfuzz</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=1365">00:22:45</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Investigation TWIRP because port 8545 had that in an error mesage</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=1480">00:24:40</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Running gobuster to hunt for protobuf files and api endpoints</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=1730">00:28:50</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Exploring the generated.proto file</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=1920">00:32:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Seeing how TWIRP uses Protobuf files, then making the HTTP Request to pull credentials</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=2630">00:43:50</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Using Hydra to bruteforce an http login form</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=2870">00:47:50</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Exploring login logic to see how SESSIONS are handled after invalid logins</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=3000">00:50:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Testing /api/totp now that we have a session and finding ways to generate backup codes</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=3240">00:54:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Looking at the authenticated product page</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=3360">00:56:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Playing with the upload form of the protobs interface</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=3560">00:59:20</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">(unintended) Hunting for the uploads/ directory and testing for potential race condition</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=3780">01:03:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Winning the race to get a reverse shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=3915">01:05:15</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Doing the firmware upload the intended way.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=4040">01:07:20</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Using DD to extract data out of binwalk</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=4190">01:09:50</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Exploring the firmware in Ghidra</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=4310">01:11:50</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Testing the firmware signing by opening the ELF in a hex editor and changing a byte near the beginning of the file, then the end of the binary</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=4510">01:15:10</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Editing the string in the system() call test for RRCE</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=4770">01:19:30</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Changing our ping command to be a reverse shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=5220">01:27:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Reverse shell returned but wanted to see how much of this ELF we messed up by overflowing the string.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=5700">01:35:00</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Checking the MySQL Database for creds</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=6110">01:41:50</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Running pspy to see some hidden crons</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=6280">01:44:40</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Running chisel to forward the MQTT Port back to our box</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=6670">01:51:10</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Using mosquitto_sub to subscribe to a topic and get messages</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=6820">01:53:40</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
-    <td valign="top">Subscribing to $SYS/# and seeing an SSH Key broadcast to it</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Player2</td>
-    <td valign="top" style="white-space: nowrap">2020-06-27</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/ehoh6g5dSWk?t=6880">01:54:40</a> / <a href="https://www.youtube.com/watch?v=ehoh6g5dSWk">01:57:54</a></td>
     <td valign="top">Changing the SSH Key on the box, which root reads and broadcasts.  Use this to get shadow and root.txt</td>
   </tr>
@@ -13042,230 +13317,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Rope</td>
     <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Intro</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=70">00:01:10</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Nmap the box, then play with the WebServer. 404 msg are interesting</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=315">00:05:15</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Discovering Directory Traversal and then grabbing the webserver by going to /proc/self/cwd/</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=565">00:09:25</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Opening the binary up in Ghidra and exploring the binary to understand what it does</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=1115">00:18:35</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Discovering we have control over the first argument in log_access/printf</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=1205">00:20:05</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Showing one of my most hated things about debugging forks.  Be sure to always kill the process!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=1265">00:21:05</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Using GDB to help us analyze the log_access call, by breaking and examining the stack</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=1440">00:24:00</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Begin of PrintF (Format Strings) Exploitation, leak a bunch of memory addresses, then identify a spot in memory where we control</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=1720">00:28:40</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Starting to write an exploit script</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=1850">00:30:50</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Grabbing /proc/self/maps to obtain a memory map which helps bypass ASLR.  Analyze the binary again and see it supports the "RANGE" HTTP Header which is required to grab these special files</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=2070">00:34:30</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Back to Coding the exploit script, now that we can grab the process map</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=2485">00:41:25</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Testing our leaking/rebasing code to verify we are leaking correctly then using fmtstr_payload to automate the exploit</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=2820">00:47:00</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Running the exploit, seeing the output of "GET" on the Server's STDOUT... Lots of fighting with a debugger to show exactly what happened (explain it later, may want to skip to the next part)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=3690">01:01:30</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Replacing GET in our request with commands, to see it is running them.  Placing a reverse shell here using IFS as space.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=3830">01:03:50</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Changing the exploit to use the target... For some reason we have the wrong libc version, once we figure that out it works.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=4105">01:08:25</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Going to /proc/self/maps again to leak the path of libc, redownloading it and then we instantly get a shell.  Drop SSH Keys and SSH in</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=4290">01:11:30</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Going back.. the issues with debugging the printf exploit, to explain it.  The issues had was system() calls fork and we followed it</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=4620">01:17:00</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">John can sudo the readlogs binary, analyze it with ghidra/ldd to see it calls a printlog() option in a custom library that is chmod'd to 777</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=4870">01:21:10</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Creating a custom library that replaces printlog() with a system("/bin/bash") call, uploading and getting our shell.  Drop an SSH Key and go in via ssh</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=5160">01:26:00</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Examining the contact bin in Ghidra, this one is stripped so it will be a bit more pain to navigate</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=5480">01:31:20</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Explaining the buffer overflow in the recv() call -- Then lots of fighting with gdb to get to a part of the code to explain overwriting the canary</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=6409">01:46:49</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Partially overwriting the canary and showing it in GDB, then explaining how its like a padding oracle attack due to it not changing.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=6610">01:50:10</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Begin the exploit script, start off with creating our threaded bruteforcer() class.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=7365">02:02:45</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Explaining what our code will do, then running it and fixing errors</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=7890">02:11:30</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Testing our program to see we can leak the canary.  Then leaking RBP and RIP</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=8090">02:14:50</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Using VMMAP to aid us in rebase the binary to bypass ASLR.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=8302">02:18:22</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Using pwntools to create a write() gadget to leak a libc address, then rebase libc</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=8615">02:23:35</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Since Canary/RBP/RIP are always the same, lets just hard code those variables for now to save time</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=8730">02:25:30</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Going over the ROP Gadget, then verifying the libc address is correct and doing dup2,dup2,execve for code execution</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=9340">02:35:40</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Found why the ExecVE wasn't working, didn't update the rop variable name, so ran libc leak twice</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=9390">02:36:30</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Updating the code to work remotely.  Use Chisel to forward port 1337 to our box</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=9930">02:45:30</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
-    <td valign="top">Printing a few more debug things so we know the code is working, downgrading the # of workers, then running it remotely, to get a shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Rope</td>
-    <td valign="top" style="white-space: nowrap">2020-05-23</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/GTQxZlr5yvE?t=10130">02:48:50</a> / <a href="https://www.youtube.com/watch?v=GTQxZlr5yvE">03:51:02</a></td>
     <td valign="top">Showing we don't need the Pop RDI because RDI is already set as the FD</td>
   </tr>
@@ -13588,183 +13639,8 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Obscurity</td>
     <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=0">00:00:00</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Intro</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=63">00:01:03</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Quick rant about Security through Obscurity and why it can be good</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=150">00:02:30</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Begin of nmap'ing the box</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=390">00:06:30</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Checking out the webpage, GoBuster giving weird errors, try WFUZZ</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=725">00:12:05</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Taking a deeper look at the website while we have some recon running</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=1065">00:17:45</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Wfuzz found nothing hunting for /$directory/SuperSecureServer.py</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=1080">00:18:00</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Doing some Directory Traversal attempts against the webserver, and seeing it looks like its vulnerable</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=1250">00:20:50</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Extracting the source code to the webserver by specifying /../SuperSecureServer.py</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=1410">00:23:30</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Installing VS Code so we can run this webserver and insert breakpoints</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=1700">00:28:20</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Creating main.py then running the code in VSCode</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=2160">00:36:00</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Exploiting the exec() statement in the WebServer</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=2340">00:39:00</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Explaining that we can't use + for spaces in the url, have to do %20, then testing a reverse shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=2700">00:45:00</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Reverse shell returned</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=2810">00:46:50</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Turns out the intended way is to find the /develop/ directory.  Looking into why wfuzz missed it</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=3210">00:53:30</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Copying the SuperSecureCrypt files back to our local box, then reading the source</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=3360">00:56:00</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Explaining modulus</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=3585">00:59:45</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Explaining Known Plaintext Attack</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=3815">01:03:35</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Having trouble deciphering arguments, typing out the arguments on decrypting the key</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=4020">01:07:00</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Decrypting the PasswordReminder.txt</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=4239">01:10:39</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Explaining Block Ciphers and how to protect against Known-PlainText</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=4285">01:11:25</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Rant about Initialization Vectors (IV) and why repeating them is bad (WEP)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=4470">01:14:30</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Looking at the BetterSSH Source Code</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=4630">01:17:10</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Explaining why we can overload the -u parameter of Sudo</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=4830">01:20:30</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Setting up a watch command to copy all files in /tmp/SSH to /dev/shm so we can crack them later</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=4870">01:21:10</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Root #1: Exploiting BetterSSH via overloading parameters</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Obscurity</td>
-    <td valign="top" style="white-space: nowrap">2020-05-09</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/veq3w_j0WZQ?t=5120">01:25:20</a> / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
-    <td valign="top">Root #2: Cracking the password</td>
+    <td valign="top" style="white-space: nowrap">00:00:00 / <a href="https://www.youtube.com/watch?v=veq3w_j0WZQ">01:32:25</a></td>
+    <td valign="top"></td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -14493,34 +14369,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top" style="white-space: nowrap">2020-04-04</td>
     <td valign="top" style="white-space: nowrap">00:00:00 / <a href="https://www.youtube.com/watch?v=B_7NIkSlYuQ">02:56:23</a></td>
     <td valign="top"></td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">VulnHub - DC-9</td>
-    <td valign="top" style="white-space: nowrap">2020-03-29</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_Aa8125CQ0g?t=34">00:00:34</a> / <a href="https://www.youtube.com/watch?v=_Aa8125CQ0g">01:46:09</a></td>
-    <td valign="top">Explaining how networking is setup, then nmap</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">VulnHub - DC-9</td>
-    <td valign="top" style="white-space: nowrap">2020-03-29</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_Aa8125CQ0g?t=240">00:04:00</a> / <a href="https://www.youtube.com/watch?v=_Aa8125CQ0g">01:46:09</a></td>
-    <td valign="top">Examining why nmap says a port is filtered in Wireshark</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">VulnHub - DC-9</td>
-    <td valign="top" style="white-space: nowrap">2020-03-29</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_Aa8125CQ0g?t=450">00:07:30</a> / <a href="https://www.youtube.com/watch?v=_Aa8125CQ0g">01:46:09</a></td>
-    <td valign="top">Exploring the webpage and doing basic SQL Injections in the search functionality</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">VulnHub - DC-9</td>
-    <td valign="top" style="white-space: nowrap">2020-03-29</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_Aa8125CQ0g?t=490">00:08:10</a> / <a href="https://www.youtube.com/watch?v=_Aa8125CQ0g">01:46:09</a></td>
-    <td valign="top">Starting GoBuster in the background, #AlwaysHaveReconRunning</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -15557,153 +15405,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top" style="white-space: nowrap">2020-02-22</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/8XmTz3A5rUo?t=6645">01:50:45</a> / <a href="https://www.youtube.com/watch?v=8XmTz3A5rUo">02:04:58</a></td>
     <td valign="top">Script 3: Combining the Threaded example with our RSYNC Auth to get a good bruteforcer!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=52">00:00:52</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Start of recon, NMAP</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=275">00:04:35</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Using SMBClient to look for OpenShares</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=290">00:04:50</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Examining the HTTP Redirect on the page</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=416">00:06:56</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Attemping default credentials</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=505">00:08:25</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Running GoBuster with PHP Extensions</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=765">00:12:45</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Examining the /api/ Requests made in BurpSuite</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=815">00:13:35</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Comparing Requests to notice one has a "BEARER" Header.  Researching exactly what it is.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=885">00:14:45</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Examining the contents of BEARER/OAUTH2 by base64 decoding it.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=950">00:15:50</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Inducing an error message by placing invalid base64, then trying to get a different error message by putting valid but unexpected bas64</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=1010">00:16:50</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">See a serialization error, pointing towards JSON.NET, then switching to Windows to install ysoSerial</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=1374">00:22:54</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Creating a .net Deserialization exploit that will ping us</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=1670">00:27:50</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Base64 encoding the exploit, starting tcpdump, and checking for code execution.  Then editing our exploit use a PowerShell webcradle with Nishang to get a reverse shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=1971">00:32:51</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Reverse Shell Returned, Running WinPEAS from my SMBShare so we don't touch disk</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=2220">00:37:00</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Going over WinPEAS.bat, which doesn't have color (we will do EXE later in the video to get colors!)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=2520">00:42:00</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">PrivEsc #1: Reversing Sync2Ftp to decrypt a password</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=3015">00:50:15</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Decompile SyncLocation.exe via DNSPY, then edit the executable to display the decrypted password.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=3375">00:56:15</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Couldn't use PSEXEC with the decrypted creds.  Lets use Powershell Invoke-Command to switch users</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=3925">01:05:25</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">PrivEsc #2: FileZilla Server - This will require us to pop the box from Windows!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=4250">01:10:50</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Using Chisel to forward 127.0.0.1:14147 to us</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=4515">01:15:15</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">Running the FileZilla Server and connecting to the box through our tunnel to create new users</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - JSON</td>
-    <td valign="top" style="white-space: nowrap">2020-02-15</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/FPgK_udcBig?t=4913">01:21:53</a> / <a href="https://www.youtube.com/watch?v=FPgK_udcBig">01:27:52</a></td>
-    <td valign="top">PrivEsc #3: JuicyPotato</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -17032,148 +16733,8 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Wall</td>
     <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=55">00:00:55</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Start of recon</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=150">00:02:30</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Running GoBuster to discover the /monitoring directory</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=230">00:03:50</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Running hydra to try to brute force the HTTP Authentication (Does not work due to it being a secure password)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=320">00:05:20</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Bypassing the AUTH Request by changing to a POST — Explain why this works later</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=390">00:06:30</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Looking at the Centreon Changelog to look for any exploits</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=490">00:08:10</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">There aren’t any unauthenticated exploited, lets brute force a login.  The main way uses a CSRF Token.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=530">00:08:50</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Bypassing the CSRF by using the Centreon API</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=720">00:12:00</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Using wfuzz to brute force the API Login and get admin:Password1</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=855">00:14:15</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Changing the Monitoring Engine Binary under Configure Pollers to get code execution</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=975">00:16:15</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Trying to ping ourselves, find out we can’t use space</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=1030">00:17:10</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Using IFS to instead of space</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=1211">00:20:11</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Ping worked, trying to do a Reverse Shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=1430">00:23:50</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">The reverse shell didn’t work lets do some debugging</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=1555">00:25:55</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Adding a semicolon at the end of the script and getting a reverse shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=1580">00:26:20</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Reverse shell returned, lets build a proper TTY with ROWS and COLUMNS so we can do things like vi</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=1820">00:30:20</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Searching for files between two dates</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=1980">00:33:00</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Discovering backup which is a PYC File, using uncompyle to decompile it</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=2095">00:34:55</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Getting Shelby’s password out of the backup script</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=2145">00:35:45</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Using LinPEAS instead of LinEnum to look for privescs</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=2590">00:43:10</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">Exploiting Screen-4.5.0 to get root</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Wall</td>
-    <td valign="top" style="white-space: nowrap">2019-12-07</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/SyWUsN0yHKI?t=2790">00:46:30</a> / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
-    <td valign="top">## Extra<br>Static Code Analysis tip, looking for dangerous functions</td>
+    <td valign="top" style="white-space: nowrap">00:00:00 / <a href="https://www.youtube.com/watch?v=SyWUsN0yHKI">00:57:33</a></td>
+    <td valign="top"></td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -24431,132 +23992,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Zipper</td>
     <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=75">00:01:15</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Start of NMAP</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=250">00:04:10</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Signing into Zabbix as Guest</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=330">00:05:30</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Getting potential usernames from inside Zabbix and guessing creds</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=390">00:06:30</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Running Searchsploit and looking for vulnerabilties</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=440">00:07:20</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Analyzing the "API" Script from SearchSploit as we have API Creds</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=615">00:10:15</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Modifying the "API" Script</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=675">00:11:15</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Showing a shortcut to skip the Container to Host Lateral Movement.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=935">00:15:35</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Shell on the Container.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=1045">00:17:25</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Searching for Zabbix MySQL Password</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=1115">00:18:35</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Dumping the Zabbix User Database</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=1200">00:20:00</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Logging into Zabbix as Admin, discover ZBX Agent on Host.  Testing if port is accessible</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=1410">00:23:30</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Running commands on the Zabbix Agent (Host OS) from Zabbix Server (Guest OS)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=1793">00:29:53</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Getting a Reverse Shell on Zabbix (use nohup to fork)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=1960">00:32:40</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Running LinEnum on Zabbix Host</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=2115">00:35:15</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Examining home directories to find Zapper Creds</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=2202">00:36:42</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">Examining the "Zabbix-Service" SetUID</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=2340">00:39:00</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">PRIVESC #1: Running ltrace to discover it is vulnerable to $PATH Manipulation</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=2520">00:42:00</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
-    <td valign="top">PRIVESC #2: Weak permissions on Purge-Backups Service</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Zipper</td>
-    <td valign="top" style="white-space: nowrap">2019-02-23</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=2910">00:48:30</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
     <td valign="top">Extra Content: Building a Zabbix API Client from Scratch!</td>
   </tr>
@@ -24608,153 +24043,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top" style="white-space: nowrap">2019-02-23</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/RLvFwiDK_F8?t=4245">01:10:45</a> / <a href="https://www.youtube.com/watch?v=RLvFwiDK_F8">01:15:26</a></td>
     <td valign="top">Adding functionality to modify users</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=60">00:01:00</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Begin of intro</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=137">00:02:17</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Examining port 80 and 443</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=195">00:03:15</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Using gobuster to discover directories</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=260">00:04:20</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">/remote discovered, nothing to do here</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=325">00:05:25</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">/mvc discovered</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=375">00:06:15</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">SQL Injection everywhere</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=555">00:09:15</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Attempt to perform union injection on search</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=615">00:10:15</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Having trouble, send to SQLMap look at other places in the applicaiton</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=740">00:12:20</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">SQLMap having trouble with search SQL, change to ITEM</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=1010">00:16:50</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Attempting XP_CMDSHELL (Fails)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=1190">00:19:50</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Using XP_DIRTREE to read files off SMBShare</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=1410">00:23:30</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Use Responder to steal the authentication attempt of XP_DIRTREE</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=1500">00:25:00</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Cracking the NetNTLMv2 Hash</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=1560">00:26:00</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Logging into /remote with cracked credentials</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=1600">00:26:40</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Discovering unifi video is installed, this has a known privesc</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=1770">00:29:30</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Attempting to use Meterpreter. (Fail: AV)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=1935">00:32:15</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Grabbing and compiling a DotNet Reverse Shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=2115">00:35:15</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Actually compiling the reverse shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=2338">00:38:58</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Using xcopy to copy our reverse shell to the victim</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=2340">00:39:00</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Attempting to find Unifi Service name so we can restart it. End up searching registry due to permission issues.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Giddy</td>
-    <td valign="top" style="white-space: nowrap">2019-02-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/J2unwbMQvUo?t=2530">00:42:10</a> / <a href="https://www.youtube.com/watch?v=J2unwbMQvUo">01:01:33</a></td>
-    <td valign="top">Restarting Unifi Service so it executes TaskKill.exe</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -26272,146 +25560,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Bounty</td>
     <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=38">00:00:38</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Begin of recon</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=108">00:01:48</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Gobuster, using -x aspx to find aspx pages</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=196">00:03:16</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Playing with a file upload form, seeing what can be uploaded</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=315">00:05:15</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Using Burp Intruder to automate checking file extensions</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=420">00:07:00</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Finding a way to execute code from file upload in ASPX (web.config)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=655">00:10:55</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Executing code via web.config file upload</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=788">00:13:08</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Installing Merlin to be our C2</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=925">00:15:25</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Compiling the Merlin Windows Agent</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=1117">00:18:37</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Modifying web.config to upload and execute merlin</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=1274">00:21:14</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Merlin Shell returned!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=1458">00:24:18</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Checking for SEImpersonatePrivilege Token then doing Juicy Potato</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=1664">00:27:44</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Getting Admin via Juicy Potato</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=1784">00:29:44</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Box completed</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=1800">00:30:00</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Start of doing this box again, with Metasploit! Creating a payload with Unicorn</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=1980">00:33:00</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Having troubles getting the server call back to us, trying Ping to see if the exploit is still working</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=2057">00:34:17</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Reverted box.  Have to update our payload with some updated VIEWSTATE parameters</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=2205">00:36:45</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Metasploit Session Returned!  Checking local_exploit_suggester</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=2401">00:40:01</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Comparing local_exploit_suggester on x32 and x64 meterpreter sessions</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=2430">00:40:30</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Getting Admin via MS10-092</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=2525">00:42:05</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
-    <td valign="top">Attempting to pivot through the Firewall using Meterpreter and doing Eternal Blue! (Fails, think I screwed up listening host #PivotProblems)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bounty</td>
-    <td valign="top" style="white-space: nowrap">2018-10-27</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/7ur4om1K98Y?t=2840">00:47:20</a> / <a href="https://www.youtube.com/watch?v=7ur4om1K98Y">01:02:17</a></td>
     <td valign="top">Creating a Python Script to find valid extensions that handles CSRF Checks if they had existed</td>
   </tr>
@@ -27364,62 +26512,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Stratosphere</td>
     <td valign="top" style="white-space: nowrap">2018-09-01</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=71">00:01:11</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
-    <td valign="top">Begin of recon</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Stratosphere</td>
-    <td valign="top" style="white-space: nowrap">2018-09-01</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=228">00:03:48</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
-    <td valign="top">Manually checking the page out</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Stratosphere</td>
-    <td valign="top" style="white-space: nowrap">2018-09-01</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=270">00:04:30</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
-    <td valign="top">Discovering the webserver is java/tomcact</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Stratosphere</td>
-    <td valign="top" style="white-space: nowrap">2018-09-01</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=335">00:05:35</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
-    <td valign="top">Starting up GoBuster / Hydra</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Stratosphere</td>
-    <td valign="top" style="white-space: nowrap">2018-09-01</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=580">00:09:40</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
-    <td valign="top">The Directory /Monitoring was found - Discovering its Struts because of .action</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Stratosphere</td>
-    <td valign="top" style="white-space: nowrap">2018-09-01</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=660">00:11:00</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
-    <td valign="top">Stumbling upon an exploit trying to find out how to enumerate Struts Versions</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Stratosphere</td>
-    <td valign="top" style="white-space: nowrap">2018-09-01</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=850">00:14:10</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
-    <td valign="top">Searching Github for CVE-2017-5638 exploit script, exploiting the box to find out its firewalled off</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Stratosphere</td>
-    <td valign="top" style="white-space: nowrap">2018-09-01</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=1270">00:21:10</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
-    <td valign="top">Using a HTTP Forward Shell to get around the strict firewall</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Stratosphere</td>
-    <td valign="top" style="white-space: nowrap">2018-09-01</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/uMwcJQcUnmY?t=1360">00:22:40</a> / <a href="https://www.youtube.com/watch?v=uMwcJQcUnmY">00:42:18</a></td>
     <td valign="top">Go here if you want to start copying the Forward Shell Script</td>
   </tr>
@@ -27700,125 +26792,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Silo</td>
     <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=90">00:01:30</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Begin of recon</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=195">00:03:15</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Begin of installing SQLPlus and ODAT (Oracle Database Attack Tool)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=525">00:08:45</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Bruteforcing the SID with ODAT</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=615">00:10:15</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Holy crap, this is slow lets also do it with Metasploit</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=780">00:13:00</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Bruteforcing valid logins with ODAT</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=960">00:16:00</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Credentials returned, logging into Oracle with SQLPlus as SysDBA</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=1140">00:19:00</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Reading files from disk via Oracle</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=1400">00:23:20</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Writing files to disk from Oracle.  Testing it in WebRoot Directory</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=1552">00:25:52</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">File Written, lets write an ASPX WebShell to the Server</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=1750">00:29:10</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">WebShell Working!  Lets get a Reverse Shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=1888">00:31:28</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Reverse Shell Returned</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=1944">00:32:24</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Finding a DropBox link, but password doesn't display well.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=2035">00:33:55</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Attempting to copy file via SMB to view UTF8 Text</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=2118">00:35:18</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">That didn't work, lets transfer the file by encoding it in Base64.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=2215">00:36:55</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Got the password lets download the dump!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=2350">00:39:10</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Begin of Volatility</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=2720">00:45:20</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
-    <td valign="top">Running the HashDump plugin from volatilty then PassTheHash with Administrator's NTLM!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Silo</td>
-    <td valign="top" style="white-space: nowrap">2018-08-04</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/2c7SzNo9uoA?t=2855">00:47:35</a> / <a href="https://www.youtube.com/watch?v=2c7SzNo9uoA">00:56:00</a></td>
     <td valign="top">Begin of unintended way, examining odat and uploading an meterpreter exe</td>
   </tr>
@@ -28059,132 +27032,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top" style="white-space: nowrap">2018-07-21</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/NFdi-2tgvxY?t=2526">00:42:06</a> / <a href="https://www.youtube.com/watch?v=NFdi-2tgvxY">00:43:20</a></td>
     <td valign="top">Got the password!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=114">00:01:54</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Begin Recon, Windows IIS/OS Mapping and GoBuster</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=320">00:05:20</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Explanation of Virtual Host Routing</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=590">00:09:50</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Developers name exposed in HTML Source, also discover /monitor</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=670">00:11:10</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Enumerating Username in PHP Server Monitor: Challenge Watch Sense to understand CSRF and write an automated bruteforcer</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=993">00:16:33</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Discover of Internal-01.bart.htb</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=1157">00:19:17</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Harveys Password with Hydra (Note: This is bypassable if you DIRBUST to find /Log/log.php)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=1774">00:29:34</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Finally got Hydra to return the password!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=1940">00:32:20</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Log Poisoning + LFI = Remote Code Execution</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=2250">00:37:30</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Return of Reverse Shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=2490">00:41:30</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Why you should check if you're a 32-bit process on a 64-bit machine</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=2915">00:48:35</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">### Start of Failing attempting to do a RunAs... Lol.<br>Attempting to use b33f/FuzzySecurity Invoke-RunAs</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=3360">00:56:00</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Mistake with Invoke-RunAs is probably pointing it to the wrong port. D:</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=3820">01:03:40</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">ARGH!  Lets try to use this account via Empire</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=4260">01:11:00</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Bring out the big guns, it's Metasploit Time!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=4690">01:18:10</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Alright, lets poke a hole in the firewall and connect over SMB!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=4877">01:21:17</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">Failed to PSExec in MSF</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=4900">01:21:40</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">### End of Failing!<br>Found Impacket-PSExec!  And it works!</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Bart</td>
-    <td valign="top" style="white-space: nowrap">2018-07-14</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Cz6vQvGGiuc?t=5025">01:23:45</a> / <a href="https://www.youtube.com/watch?v=Cz6vQvGGiuc">01:41:28</a></td>
-    <td valign="top">### Box Done<br>Lets go hunt for creds!</td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -28687,76 +27534,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Chatterbox</td>
     <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=78">00:01:18</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Begin of Recon</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=295">00:04:55</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Start of aChat buffer Overflow: Finding the exploit script with Searchsploit</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=444">00:07:24</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Begin of replacing POC's Calc Shellcode with what is generated from MSFVenom</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=582">00:09:42</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Correction: Payload Size wrong, should be 3,xxx -- look at "Payload Size" I accidentally highlighted the size of the python file.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=870">00:14:30</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Whoops, erased too much out of POC.  Lets correctly replace the shellcode this time and get a shell.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=1070">00:17:50</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Running PowerUp to find AutoLogon Credentials</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=1205">00:20:05</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Running Code as Administrator</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=1458">00:24:18</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">First Privesc Method: Using Start-Process to execute commands as a different user because Invoke-Command did not work.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=1650">00:27:30</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Alternate way to read root.txt -- Alfred owns root.txt, so he can edit the files access list. Get-ACL to view access list and cacls to modify</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=1992">00:33:12</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
-    <td valign="top">Summary of the box</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Chatterbox</td>
-    <td valign="top" style="white-space: nowrap">2018-06-16</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/_dRrvJNdP-s?t=2077">00:34:37</a> / <a href="https://www.youtube.com/watch?v=_dRrvJNdP-s">01:00:27</a></td>
     <td valign="top">Doing the box with Metasaploit, Warning: Lots of fails.</td>
   </tr>
@@ -28911,76 +27688,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Tally</td>
     <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=105">00:01:45</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Start of NMAP</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=257">00:04:17</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Begin of Sharepoint/GoBuster (Special Sharepoint List)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=392">00:06:32</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Manually browsing to Sitecontent (Get FTP Creds)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=618">00:10:18</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Mirror FTP + Pillage for information, Find keypass in Tim's directory and crack it.</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=1102">00:18:22</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Mounting/Mirroring ACCT Share with found Creds and finding hardcoded SQL Creds</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=1524">00:25:24</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Logging into MSSQL with SQSH, enabling xp_cmdshell and getting a Nishang Rev Shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=2075">00:34:35</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Finding SPBestWarmUp.ps1 Scheduled Task that runs as Administrator</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=2400">00:40:00</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Begin of RottenPotato without MSF (Decoder's Lonely Potato)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=2756">00:45:56</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Using Ebowla Encoding for AV Evasion to create an exe for use with Lonely Potato</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=3480">00:58:00</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
-    <td valign="top">Lonely Potato Running to return a Admin Shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Tally</td>
-    <td valign="top" style="white-space: nowrap">2018-05-28</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/l-wzBhc9wFc?t=3862">01:04:22</a> / <a href="https://www.youtube.com/watch?v=l-wzBhc9wFc">01:50:08</a></td>
     <td valign="top">Finding CVE-2017-0213</td>
   </tr>
@@ -29023,183 +27730,8 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Jeeves</td>
     <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=79">00:01:19</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Begin of Enumeration</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=255">00:04:15</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Avoiding the Rabbit Hole on port 80 (IIS)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=360">00:06:00</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Begin of Jenkins</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=540">00:09:00</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Using Jenkins Script Console (Groovy) to gain code execution</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=720">00:12:00</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Reverse TCP Shell via Nishang</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=1020">00:17:00</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Reverse Shell returned.  PowerSplit dev branch to find unintended privesc (Tokens)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=1340">00:22:20</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Powersploit's Invoke-AllChecks completes</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=1460">00:24:20</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Finding Keepass Database using Impack-SMBServer to transfer files</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=1620">00:27:00</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Cracking the KeePass Database</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=1820">00:30:20</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Using KeePass2 to open database</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=2065">00:34:25</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">PassTheHash via pth-winexe to gain administrator shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=2120">00:35:20</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Grabbing root.txt that is hidden via Alternate Data Streams (ADS)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=2340">00:39:00</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">### BOX DONE<br>Using RottenPotato to escalate to root via MSF</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=2460">00:41:00</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Using Unicorn to gain a reverse MSF SHell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=2720">00:45:20</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Performing the attack</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Jeeves</td>
-    <td valign="top" style="white-space: nowrap">2018-05-19</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/EKGBskG8APc?t=2880">00:48:00</a> / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
-    <td valign="top">Impersonating Token to gain root</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=85">00:01:25</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Begin of recon</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=140">00:02:20</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Wiresharking NMAP to identify fingerprint</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=353">00:05:53</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Checking the WebPage</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=555">00:09:15</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Finding /sync and why web browser has a 403</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=765">00:12:45</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Using wfuzz to find what arguments /sync takes</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=945">00:15:45</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">The actual wfuzz command</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=1230">00:20:30</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Finding Bad Characters with wfuzz</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=1491">00:24:51</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Getting command execution</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=1920">00:32:00</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Getting a reverse shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Flux Capacitor</td>
-    <td valign="top" style="white-space: nowrap">2018-05-12</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/XLIBbkQJKuY?t=2620">00:43:40</a> / <a href="https://www.youtube.com/watch?v=XLIBbkQJKuY">01:01:23</a></td>
-    <td valign="top">Privesc to root abusing custom script</td>
+    <td valign="top" style="white-space: nowrap">00:00:00 / <a href="https://www.youtube.com/watch?v=EKGBskG8APc">01:01:04</a></td>
+    <td valign="top"></td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -31319,48 +29851,6 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">Introduction to tmux</td>
     <td valign="top" style="white-space: nowrap">2017-12-05</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Lqehvpe_djs?t=17">00:00:17</a> / <a href="https://www.youtube.com/watch?v=Lqehvpe_djs">00:11:43</a></td>
-    <td valign="top">Why I like Tmux</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">Introduction to tmux</td>
-    <td valign="top" style="white-space: nowrap">2017-12-05</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Lqehvpe_djs?t=80">00:01:20</a> / <a href="https://www.youtube.com/watch?v=Lqehvpe_djs">00:11:43</a></td>
-    <td valign="top">Creating Tmux Session</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">Introduction to tmux</td>
-    <td valign="top" style="white-space: nowrap">2017-12-05</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Lqehvpe_djs?t=105">00:01:45</a> / <a href="https://www.youtube.com/watch?v=Lqehvpe_djs">00:11:43</a></td>
-    <td valign="top">Bash: Ctrl + R - Recursive Search</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">Introduction to tmux</td>
-    <td valign="top" style="white-space: nowrap">2017-12-05</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Lqehvpe_djs?t=122">00:02:02</a> / <a href="https://www.youtube.com/watch?v=Lqehvpe_djs">00:11:43</a></td>
-    <td valign="top">Tmux: Prefix Key (default Ctrl+B)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">Introduction to tmux</td>
-    <td valign="top" style="white-space: nowrap">2017-12-05</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Lqehvpe_djs?t=125">00:02:05</a> / <a href="https://www.youtube.com/watch?v=Lqehvpe_djs">00:11:43</a></td>
-    <td valign="top">Tmux: New Window - Prefix c</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">Introduction to tmux</td>
-    <td valign="top" style="white-space: nowrap">2017-12-05</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Lqehvpe_djs?t=127">00:02:07</a> / <a href="https://www.youtube.com/watch?v=Lqehvpe_djs">00:11:43</a></td>
-    <td valign="top">Tmux: Switch Window - Prefix #</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">Introduction to tmux</td>
-    <td valign="top" style="white-space: nowrap">2017-12-05</td>
     <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/Lqehvpe_djs?t=156">00:02:36</a> / <a href="https://www.youtube.com/watch?v=Lqehvpe_djs">00:11:43</a></td>
     <td valign="top">My Tmux Config</td>
   </tr>
@@ -32691,92 +31181,8 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
     <td valign="top">IppSec</td>
     <td valign="top">HackTheBox - Joker</td>
     <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=27">00:00:27</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">Port Enumeration</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=174">00:02:54</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">UDP Port Review</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=220">00:03:40</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">TFTP Enumeration</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=390">00:06:30</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">Cracking Squid PW</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=480">00:08:00</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">FoxyProxy Setup</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=585">00:09:45</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">Burp Setup</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=885">00:14:45</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">Running Commands</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=1280">00:21:20</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">Reverse Shell</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=1350">00:22:30</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">PrivEsc to Alekos #1</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=1680">00:28:00</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">PrivEsc to Alekos #2</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=1837">00:30:37</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">Root #1 (SymLink)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=1848">00:30:48</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">Root #2 (Tar Checkpoint)</td>
-  </tr>
-  <tr>
-    <td valign="top">IppSec</td>
-    <td valign="top">HackTheBox - Joker</td>
-    <td valign="top" style="white-space: nowrap">2017-09-22</td>
-    <td valign="top" style="white-space: nowrap"><a href="https://youtu.be/5wyvpJa9LdU?t=2685">00:44:45</a> / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
-    <td valign="top">Root #3 (Remove Development)</td>
+    <td valign="top" style="white-space: nowrap">00:00:00 / <a href="https://www.youtube.com/watch?v=5wyvpJa9LdU">00:48:01</a></td>
+    <td valign="top"></td>
   </tr>
   <tr>
     <td valign="top">IppSec</td>
@@ -33193,6 +31599,7 @@ This is a scrape of the timestamps of several offsec related YouTube video. Ctrl
   </tr>
 
 </table>
+
 
 
 
