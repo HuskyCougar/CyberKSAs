@@ -5,7 +5,7 @@ Red Team Field Manual / Read the f***ing Manual
 <br>
 ## Red Team Field Manual
 ---
-There is a book, [RTFM](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/), that is a fantastic resource for people in cyber security. Get it, it is worth the $10. There is also a [Blue Team Field Manual](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X/) for $15 on Amazon. 
+There is a book, [RTFM](https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/), that is a fantastic resource for people in cyber security. Get it. It is worth the $10. There is also a [Blue Team Field Manual](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X/) for $15 on Amazon. 
 
 <br>
 ## Why build your own RTFM?
